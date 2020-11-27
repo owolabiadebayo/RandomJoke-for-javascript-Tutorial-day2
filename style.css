@@ -1,0 +1,22 @@
+body{
+
+padding: 10px;
+margin-top: 10vh;
+text-align: center;
+}
+img{
+  height: 80px;
+}
+#display-joke{
+  font-size: large;
+  padding: 20px;
+  border-left: 3px rgb(80, 80, 3) solid;
+}
+#get-joke{
+  color: white;
+  background-color: rgb(201, 143, 17);
+  border: 1px solid #000;
+  padding: 7px;
+  border-radius: 5px;
+
+}
